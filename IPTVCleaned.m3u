@@ -511,8 +511,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 https://jlt2104.cdn.nextologies.com/ebaed9568f2b8e61/ffaaf4b7e1d0e7a8/ea5f88d4e7c252b2/056b5eafae61b1e6/playlist.m3u8
 #EXTINF:-1  tvg-id="MHZ.ca" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Network" :http-referrer="" :http-user-agent="",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="WMTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Network" :http-referrer="" :http-user-agent="",NBC 15 Madison WI (WMTV) (720p)
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1  tvg-id="KSHBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",NBC 41Kansas City KSHB (720p)
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 #EXTINF:-1  tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Network" :http-referrer="" :http-user-agent="",Newfoundland Television (480p)
@@ -541,157 +539,157 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1  tvg-id="RFDTV.us" tvg-logo="https://i.imgur.com/FcT3beY.png" group-title="Network" :http-referrer="" :http-user-agent="",RFD-TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
-#EXTINF:-1  tvg-id="STIRRCityAbilene.us" tvg-logo="https://i.imgur.com/yh0P0qs.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Abilene (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityAbilene.us" tvg-logo="https://i.imgur.com/yh0P0qs.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Abilene (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityAlbany.us" tvg-logo="https://i.imgur.com/CYpOthl.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Albany (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityAlbany.us" tvg-logo="https://i.imgur.com/CYpOthl.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Albany (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityAmarillo.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Amarillo (720p)
+#EXTINF:-1  tvg-id="STIRRCityAmarillo.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Amarillo (720p)
 https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityAustin.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Austin (480p)
+#EXTINF:-1  tvg-id="STIRRCityAustin.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Austin (480p)
 https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBakersfield.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Bakersfield (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityBakersfield.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Bakersfield (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBaltimore.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Baltimore (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityBaltimore.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Baltimore (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBayCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Bay City (720p)
+#EXTINF:-1  tvg-id="STIRRCityBayCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Bay City (720p)
 https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBeaumont.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Beaumont (720p)
+#EXTINF:-1  tvg-id="STIRRCityBeaumont.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Beaumont (720p)
 https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBeaumontPortArthur.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Beaumont Port Arthur (720p)
+#EXTINF:-1  tvg-id="STIRRCityBeaumontPortArthur.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Beaumont Port Arthur (720p)
 https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBirmingham.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Birmingham (720p)
+#EXTINF:-1  tvg-id="STIRRCityBirmingham.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Birmingham (720p)
 https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityBoise.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Boise (480p)
+#EXTINF:-1  tvg-id="STIRRCityBoise.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Boise (480p)
 https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityCadillac.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Cadillac (720p)
+#EXTINF:-1  tvg-id="STIRRCityCadillac.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Cadillac (720p)
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityCedarRapids.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Cedar Rapids (720p)
+#EXTINF:-1  tvg-id="STIRRCityCedarRapids.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Cedar Rapids (720p)
 https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityChampaign.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Champaign (720p)
+#EXTINF:-1  tvg-id="STIRRCityChampaign.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Champaign (720p)
 https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityCharleston.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Charleston (720p)
+#EXTINF:-1  tvg-id="STIRRCityCharleston.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Charleston (720p)
 https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityCharlestonHuntington.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Charleston Huntington (234p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityCharlestonHuntington.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Charleston Huntington (234p) [Not 24/7]
 https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityChattanooga.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Chattanooga (720p)
+#EXTINF:-1  tvg-id="STIRRCityChattanooga.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Chattanooga (720p)
 https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityChicoRedding.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Chico-Redding (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityChicoRedding.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Chico-Redding (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityCincinnati.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Cincinnati (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityCincinnati.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Cincinnati (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityColumbia.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Columbia (720p)
+#EXTINF:-1  tvg-id="STIRRCityColumbia.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Columbia (720p)
 https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityColumbus1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Columbus #1 (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityColumbus1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Columbus #1 (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityColumbus2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Columbus #2 (720p)
+#EXTINF:-1  tvg-id="STIRRCityColumbus2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Columbus #2 (720p)
 https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityDayton.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Dayton (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityDayton.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Dayton (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityElPaso1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City El Paso #1 (480p)
+#EXTINF:-1  tvg-id="STIRRCityElPaso1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City El Paso #1 (480p)
 https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityElPaso2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City El Paso #2 (720p)
+#EXTINF:-1  tvg-id="STIRRCityElPaso2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City El Paso #2 (720p)
 https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityEugeneSpringfield1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Eugene Springfield #1 (720p)
+#EXTINF:-1  tvg-id="STIRRCityEugeneSpringfield1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Eugene Springfield #1 (720p)
 https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityEugeneSpringfield2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Eugene Springfield #2 (540p)
+#EXTINF:-1  tvg-id="STIRRCityEugeneSpringfield2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Eugene Springfield #2 (540p)
 https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityFlorence.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Florence (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityFlorence.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Florence (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityFresnoVisalia.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Fresno-Visalia (720p)
+#EXTINF:-1  tvg-id="STIRRCityFresnoVisalia.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Fresno-Visalia (720p)
 https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityGainesville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Gainesville (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityGainesville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Gainesville (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityGrandRapids.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Grand Rapids (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityGrandRapids.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Grand Rapids (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityGreenBay.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Green Bay (720p)
+#EXTINF:-1  tvg-id="STIRRCityGreenBay.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Green Bay (720p)
 https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityGreenvilleAsheville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Greenville Asheville (720p)
+#EXTINF:-1  tvg-id="STIRRCityGreenvilleAsheville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Greenville Asheville (720p)
 https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityGreenvilleNewBern.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Greenville New Bern (720p)
+#EXTINF:-1  tvg-id="STIRRCityGreenvilleNewBern.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Greenville New Bern (720p)
 https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityHarrisburg.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Harrisburg (720p)
+#EXTINF:-1  tvg-id="STIRRCityHarrisburg.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Harrisburg (720p)
 https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityHastings.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Hastings (720p)
+#EXTINF:-1  tvg-id="STIRRCityHastings.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Hastings (720p)
 https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityJohnstownAltoona.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Johnstown Altoona (720p)
+#EXTINF:-1  tvg-id="STIRRCityJohnstownAltoona.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Johnstown Altoona (720p)
 https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityLasVegas.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Las Vegas (720p)
+#EXTINF:-1  tvg-id="STIRRCityLasVegas.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Las Vegas (720p)
 https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityLewiston.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Lewiston (720p)
+#EXTINF:-1  tvg-id="STIRRCityLewiston.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Lewiston (720p)
 https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityLittleRock.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Little Rock (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityLittleRock.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Little Rock (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityLosAngeles.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Los Angeles (480p)
+#EXTINF:-1  tvg-id="STIRRCityLosAngeles.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Los Angeles (480p)
 https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityLynchburgRoanoke.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Lynchburg Roanoke (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityLynchburgRoanoke.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Lynchburg Roanoke (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityMacon.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Macon (234p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityMacon.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Macon (234p) [Not 24/7]
 https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityMedford.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Medford (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityMedford.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Medford (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityMilwaukee.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Milwaukee (720p)
+#EXTINF:-1  tvg-id="STIRRCityMilwaukee.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Milwaukee (720p)
 https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityMinneapolis.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Minneapolis (720p)
+#EXTINF:-1  tvg-id="STIRRCityMinneapolis.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Minneapolis (720p)
 https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityMissoula.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Missoula (720p)
+#EXTINF:-1  tvg-id="STIRRCityMissoula.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Missoula (720p)
 https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityNashville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Nashville (720p)
+#EXTINF:-1  tvg-id="STIRRCityNashville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Nashville (720p)
 https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityNorfolkPortsmouth.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Norfolk Portsmouth (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityNorfolkPortsmouth.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Norfolk Portsmouth (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityOklahomaCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Oklahoma City (234p)
+#EXTINF:-1  tvg-id="STIRRCityOklahomaCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Oklahoma City (234p)
 https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityOttumwa.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Ottumwa (720p)
+#EXTINF:-1  tvg-id="STIRRCityOttumwa.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Ottumwa (720p)
 https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityPensacola.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Pensacola (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityPensacola.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Pensacola (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityPittsburgh.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Pittsburgh (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityPittsburgh.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Pittsburgh (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityPortland.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Portland (720p)
+#EXTINF:-1  tvg-id="STIRRCityPortland.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Portland (720p)
 https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityProvidence.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Providence (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityProvidence.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Providence (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityQuincy.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Quincy (720p)
+#EXTINF:-1  tvg-id="STIRRCityQuincy.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Quincy (720p)
 https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityRaleighDurham.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Raleigh Durham (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityRaleighDurham.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Raleigh Durham (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityReno.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Reno (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityReno.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Reno (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityRochester.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Rochester (720p)
+#EXTINF:-1  tvg-id="STIRRCityRochester.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Rochester (720p)
 https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySaltLakeCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Salt Lake City (720p)
+#EXTINF:-1  tvg-id="STIRRCitySaltLakeCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Salt Lake City (720p)
 https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySanAntonio.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City San Antonio (720p)
+#EXTINF:-1  tvg-id="STIRRCitySanAntonio.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City San Antonio (720p)
 https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySeattle.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Seattle (720p)
+#EXTINF:-1  tvg-id="STIRRCitySeattle.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Seattle (720p)
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySiouxCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Sioux City (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCitySiouxCity.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Sioux City (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySouthBend.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City South Bend (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCitySouthBend.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City South Bend (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySpringfield2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Springfield #2 (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCitySpringfield2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Springfield #2 (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityStLouis.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City St. Louis (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityStLouis.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City St. Louis (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCitySyracuse.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Syracuse (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCitySyracuse.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Syracuse (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityToledo.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Toledo (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityToledo.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Toledo (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityTriCities.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Tri-Cities (720p)
+#EXTINF:-1  tvg-id="STIRRCityTriCities.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Tri-Cities (720p)
 https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityTulsa.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Tulsa (720p)
+#EXTINF:-1  tvg-id="STIRRCityTulsa.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Tulsa (720p)
 https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityWashingtonDC.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Washington D.C. (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityWashingtonDC.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Washington D.C. (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityWestPalmBeach.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City West Palm Beach (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityWestPalmBeach.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City West Palm Beach (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityWheelingSteubenville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Wheeling Steubenville (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityWheelingSteubenville.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Wheeling Steubenville (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityWilkesBarreScranton.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Wilkes Barre Scranton (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityWilkesBarreScranton.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Wilkes Barre Scranton (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityYakimaPasco1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Yakima Pasco #1 (720p)
+#EXTINF:-1  tvg-id="STIRRCityYakimaPasco1.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Yakima Pasco #1 (720p)
 https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
-#EXTINF:-1  tvg-id="STIRRCityYakimaPasco2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Network" :http-referrer="" :http-user-agent="",STIRR City Yakima Pasco #2 (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="STIRRCityYakimaPasco2.us" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="STIRRCity" :http-referrer="" :http-user-agent="",STIRR City Yakima Pasco #2 (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
 #EXTINF:-1  tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="Network" :http-referrer="" :http-user-agent="",TBS East (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
@@ -733,8 +731,6 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1  tvg-id="WCGtv.ca" tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="Community" :http-referrer="" :http-user-agent="",WCGtv Public (720p)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
-#EXTINF:-1  tvg-id="WFMZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" group-title="Network" :http-referrer="" :http-user-agent="",WFMZ-TV Channel 69
-https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1  tvg-id="WGNDT1.us" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="Network" :http-referrer="https://plus.teleup.com/" :http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/65.0.3467.48",WGN Chicago IL (WGN-TV1) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/65.0.3467.48
 #EXTVLCOPT:http-referrer=https://plus.teleup.com/
@@ -743,11 +739,9 @@ https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1  tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="Network" :http-referrer="" :http-user-agent="",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-id="KXXVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",ABC 25 News Central Texas (KXXV-DT1)
-https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1  tvg-id="KMBCDT1.us" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="News" :http-referrer="" :http-user-agent="",ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
-#EXTINF:-1  tvg-id="ABCNewsAustralia.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News" :http-referrer="" :http-user-agent="",ABC News (720p)
+#EXTINF:-1  tvg-id="ABCNewsAustralia.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News" :http-referrer="" :http-user-agent="",ABC Australia News (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1  tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News" :http-referrer="" :http-user-agent="",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -771,12 +765,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 #EXTINF:-1  tvg-id="ABCNewsLive9.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News" :http-referrer="" :http-user-agent="",ABC News Live 9 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-#EXTINF:-1  tvg-id="WTVQDT1.us" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="News" :http-referrer="" :http-user-agent="",ABC WTVQ-DT News Lexington KY (720p)
-https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
-#EXTINF:-1  tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/rGxhsZ2.png" group-title="News" :http-referrer="" :http-user-agent="",Al Jazeera Balkans (1080p)
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1  tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News" :http-referrer="" :http-user-agent="",Al Jazeera Documentary (270p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1  tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News" :http-referrer="" :http-user-agent="",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1  tvg-id="AmericasVoice.us" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News" :http-referrer="" :http-user-agent="",America's Voice (720p)
@@ -785,36 +773,8 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1  tvg-id="BlackNewsChannel.us" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="News" :http-referrer="" :http-user-agent="",Black News Channel (720p)
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="KFMBDT1.us" tvg-logo="https://i.imgur.com/QJyt4n4.jpg" group-title="News" :http-referrer="" :http-user-agent="",CBS 8 SanDiego KFMB
-https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
-#EXTINF:-1  tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Baltimore (720p)
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Chicago (720p)
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsColorado.us" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Colorado (720p)
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsDFW.us" tvg-logo="https://i.imgur.com/PWXK33U.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Dallas Ft Worth (720p)
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsDetroit.us" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Detroit (720p)
-https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Los Angeles (720p)
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsMiami.us" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Miami (720p)
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1  tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News National (720p)
+#EXTINF:-1  tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News" :http-referrer="CBS National News" :http-user-agent="",CBS News National (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Pittsburgh (720p)
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsSacramento.us" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="News" :http-referrer="" :http-user-agent="",CBS News Sacramento (720p)
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsBayArea.us" tvg-logo="https://i.imgur.com/GmA99Tt.png" group-title="News" :http-referrer="" :http-user-agent="",CBSN Bay Area CA (720p) [Not 24/7]
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News" :http-referrer="" :http-user-agent="",CBSN Minnesota MN (720p)
-https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="News" :http-referrer="" :http-user-agent="",CBSN New York NY (720p)
-http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1  tvg-id="CBSNewsPhilly.us" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="News" :http-referrer="" :http-user-agent="",CBSN Philly PA (720p)
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1  tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="News" :http-referrer="" :http-user-agent="",Cheddar News (1080p)
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News" :http-referrer="" :http-user-agent="",CNN International Europe (720p)
@@ -823,48 +783,22 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1  tvg-id="EYE95America.us" tvg-logo="https://i.imgur.com/yTWdcWI.png" group-title="News" :http-referrer="" :http-user-agent="",EYE95 America (1080p) [Not 24/7]
 https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1  tvg-id="WTGSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News" :http-referrer="" :http-user-agent="",Fox 28 News Savannah GA (WTGS) (720p)
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1  tvg-id="WPMTTV.us" tvg-logo="https://www.fox43.com/assets/shared-images/logos/wpmt.png" group-title="News" :http-referrer="" :http-user-agent="",FOX 43 Harrisburg PA
-https://list.iptvcat.com/my_list/s/25f7799876ffda78dded9c1b6edc43e7.m3u8
-#EXTINF:-1  tvg-id="WZDXDT.us" tvg-logo="https://www.rocketcitynow.com/assets/shared-images/logos/wzdx.png" group-title="News" :http-referrer="" :http-user-agent="",FOX 54 Huntsville WZDX
-https://list.iptvcat.com/my_list/s/aacd78c57694360dc12b7a14b9025bf2.m3u8
-#EXTINF:-1  tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News" :http-referrer="" :http-user-agent="",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News" :http-referrer="" :http-user-agent="",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News" :http-referrer="" :http-user-agent="",HLN (720p)
+#EXTINF:-1  tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Network" :http-referrer="" :http-user-agent="",HLN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1  tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="News" :http-referrer="" :http-user-agent="",InfoWars Network (1080p)
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1  tvg-id="KCCIDT1.us" tvg-logo="https://i.imgur.com/6xjshQj.png" group-title="News" :http-referrer="" :http-user-agent="",KCCI-TV News Des Moines IA (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
-#EXTINF:-1  tvg-id="KCRADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",KCRA-TV News Sacramento CA (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
-#EXTINF:-1  tvg-id="KHBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",KHBS-TV News Fort Smith AR (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
-#EXTINF:-1  tvg-id="KOATDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",KOAT-TV News Albuquerque NM (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
-#EXTINF:-1  tvg-id="KRDODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",KRDO ABC News Colorado Springs CO (720p)
-https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
-#EXTINF:-1  tvg-id="KSBWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",KSBW-TV News Salinas CA (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
-#EXTINF:-1  tvg-id="KSBYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",NBC 6 KSBY News San Louis Obispo CA (720p)
-https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 #EXTINF:-1  tvg-id="News12NewYork.us" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="News" :http-referrer="" :http-user-agent="",News 12 New York (1080p)
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1  tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="News" :http-referrer="" :http-user-agent="",Newsmax (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
-#EXTINF:-1  tvg-id="NewsNet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News" :http-referrer="" :http-user-agent="",NewsNet (720p) [Not 24/7]
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1  tvg-id="KCKSLD2.us" tvg-logo="https://i.imgur.com/woMg1xI.png" group-title="News" :http-referrer="" :http-user-agent="",NewsNet (KCKS-LD2) (480p) [Not 24/7]
 https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 #EXTINF:-1  tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="News" :http-referrer="" :http-user-agent="",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1  tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News" :http-referrer="" :http-user-agent="",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1  tvg-id="NTDTVEast.us" tvg-logo="https://i.imgur.com/QtFM5Oo.png" group-title="News" :http-referrer="" :http-user-agent="",NTD TV (New Tang Dynasty Television)
-http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 #EXTINF:-1  tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News" :http-referrer="" :http-user-agent="",OAN (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="OANEncore.us" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News" :http-referrer="" :http-user-agent="",OAN Encore (720p) [Geo-blocked]
@@ -899,24 +833,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1  tvg-id="W14DKD2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News" :http-referrer="" :http-user-agent="",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1  tvg-id="WAPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WAPT-TV News Jackson MS (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
-#EXTINF:-1  tvg-id="WESHDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WESH-TV News Orlando FL (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
-#EXTINF:-1  tvg-id="WGALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WGAL-TV News Lancaster PA (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
 #EXTINF:-1  tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News" :http-referrer="" :http-user-agent="",Wion (576p)
 http://210.210.155.37/uq2663/h/h91/index.m3u8
-#EXTINF:-1  tvg-id="WJCLDT1.us" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="News" :http-referrer="" :http-user-agent="",WJCL-TV News Savannah GA (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
-#EXTINF:-1  tvg-id="WLKYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WLKY-TV News Louisville KY (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
-#EXTINF:-1  tvg-id="WMTWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WMTW-TV News Portland ME (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
-#EXTINF:-1  tvg-id="WPBFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WPBF-TV News West Palm Beach FL (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
-#EXTINF:-1  tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",WPTZ-TV News Plattsburgh NY (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
 #EXTINF:-1  tvg-id="30ADarcizzleOffshore.us" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Outdoor" :http-referrer="" :http-user-agent="",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1  tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Outdoor" :http-referrer="" :http-user-agent="",AKC TV (1080p)
