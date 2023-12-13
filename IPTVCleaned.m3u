@@ -1,11 +1,11 @@
 ﻿#EXTM3U,
-#EXTINF:5 	tvg-id="30ADarcizzleOffshore.us" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Outdoor" " :http-referrer="" :http-user-agent="",30A Darcizzle Offshore (720p)
+#EXTINF:5 	tvg-id="30ADarcizzleOffshore.us" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Outdoor" :http-referrer="" :http-user-agent="",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:10 	tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Business" " :http-referrer="" :http-user-agent="",30A Investment Pitch (720p)
+#EXTINF:10 	tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Business" :http-referrer="" :http-user-agent="",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:15	tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music" " :http-referrer="" :http-user-agent="",30A Music (720p)
+#EXTINF:15	tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music" :http-referrer="" :http-user-agent="",30A Music (720p)
 https://30a-tv.com/music.m3u8
-#EXTINF:20	tvg-id="30ASidewalks.us" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Education" " :http-referrer="" :http-user-agent="",30A Sidewalks (720p)
+#EXTINF:20	tvg-id="30ASidewalks.us" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Education" :http-referrer="" :http-user-agent="",30A Sidewalks (720p)
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:25	tvg-id="30ATheBeachShow.us" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="Lifestyle" :http-referrer="" :http-user-agent="",30A The Beach Show (720p)
 https://30a-tv.com/beachy.m3u8
